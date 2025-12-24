@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#FF5252</color>
+    <color name="priority_high_light">#FFCDD2</color>
+    <color name="priority_medium">#FFA726</color>
+    <color name="priority_medium_light">#FFE0B2</color>
+    <color name="priority_low">#66BB6A</color>
+    <color name="priority_low_light">#C8E6C9</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+</resources>
